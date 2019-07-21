@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/kawiyapholjaroen/anaconda3/bin/python"
+    "python.pythonPath": "/Users/kawiyapholjaroen/anaconda3/bin/python",
+    "python.linting.pylintEnabled": false
 }
