@@ -1,1 +1,1 @@
-print ('Sawasdee Gai')
+print ('Hooowowoww,w')
